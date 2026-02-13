@@ -1,21 +1,13 @@
 * {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: Helvetica;
 }
-
-
 h1 {
   color: Black;
 }
-
-
 p{
   font-size: 18px;
   color: Turquoise;
-  
-
 }
-
-
 a {
   text-decoration: none;
 }
